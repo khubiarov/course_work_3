@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+new_test.py
+operations_py_format.txt
+check_timr.py
